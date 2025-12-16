@@ -1,8 +1,12 @@
 ---
+layout: default
 title: Mini-Blog
 ---
 
 # Mini-Blog
 
-This directory contains all posts submitted for collection and analysis.  
-Each post is stored in `_posts/` as Markdown files.
+All OSINT posts are collected here for research and analysis.
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%Y-%m-%d" }}
+{% endfor %}
