@@ -11,10 +11,9 @@ It is provided as structured source material for further investigation.
 
 ## Structure
 
-- Datasets (CSV / JSON)
-- Timelines
-- Reference lists
-- Technical notes
+- [Datasets (CSV / JSON)](dataset/)
+- [Timelines](timelines/)
+- [Reference lists](references/)
 
 Files are added progressively.
 
