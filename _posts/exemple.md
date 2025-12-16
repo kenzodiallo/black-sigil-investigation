@@ -1,0 +1,8 @@
+---
+title: "Post d’exemple"
+date: 2025-12-16
+tags: [test, example]
+---
+
+Ceci est un post d’exemple pour tester la liste automatique des articles dans le mini-blog.  
+Le contenu peut inclure texte, liens, ou références OSINT.
