@@ -1,3 +1,21 @@
 title: Black Sigil Investigation
-description: OSINT anlysis
-theme: minima
+description: Independent OSINT investigations and analytical reports based on open-source data.
+author: Black Sigil Investigation
+
+url: "https://kenzodiallo.github.io"
+baseurl: "/black-sigil-investigation"
+
+markdown: kramdown
+theme: null
+
+plugins: []
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+timezone: UTC
+encoding: "utf-8"
