@@ -8,5 +8,5 @@ title: Mini-Blog
 All OSINT posts are collected here for research and analysis.
 
 {% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%Y-%m-%d" }}
+- [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 {% endfor %}
