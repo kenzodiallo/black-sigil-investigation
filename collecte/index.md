@@ -11,7 +11,7 @@ It is provided as structured source material for further investigation.
 
 ## Structure
 
-- [Datasets (CSV / JSON)](dataset/)
+- [Datasets (CSV / JSON)](datasets/)
 - [Timelines](timelines/)
 - [Reference lists](references/)
 
