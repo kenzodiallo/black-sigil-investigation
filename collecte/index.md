@@ -4,4 +4,17 @@ title: Data Hub
 
 # Data Hub
 
-This directory contains all the raw datasets, CSV, JSON, and other files used for OSINT collection.
+This section contains **raw datasets and collected material** used during OSINT research.
+
+The content published here is **not analysis** and **not conclusions**.
+It is provided as structured source material for further investigation.
+
+## Structure
+
+- Datasets (CSV / JSON)
+- Timelines
+- Reference lists
+- Technical notes
+
+Files are added progressively.
+
